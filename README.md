@@ -7,12 +7,12 @@
 
 ### 🌱 Currently Learning
 
-- 🟨 <strong>JavaScript & TypeScript</strong> – Strengthening my knowledge of modern JavaScript and exploring the power of TypeScript  
-- ⚙️ <strong>Backend Development</strong> – Creating RESTful APIs, working with MySQL/PostgreSQL & MongoDB  
-- 📦 <strong>Node.js & Express</strong> – Learning to build scalable server-side applications  
-- 🧪 <strong>Practice Projects</strong> – Uploading small projects and learning experiments regularly  
-- 🛠️ <strong>DevOps Basics</strong> – Exploring tools like Docker, Linux, and CI/CD as a foundation for the future  
-- 🔜 <strong>Next goals</strong> – Backend testing, fullstack apps with React or Angular, and deployment pipelines  
+-  <strong>JavaScript & TypeScript</strong> – Strengthening my knowledge of modern JavaScript and exploring the power of TypeScript  
+-  <strong>Backend Development</strong> – Creating RESTful APIs, working with MySQL/PostgreSQL & MongoDB  
+-  <strong>Node.js & Express</strong> – Learning to build scalable server-side applications  
+-  <strong>Practice Projects</strong> – Uploading small projects and learning experiments regularly  
+-  <strong>DevOps Basics</strong> – Exploring tools like Docker, Linux, and CI/CD as a foundation for the future  
+-  <strong>Next goals</strong> – Backend testing, fullstack apps with React or Angular, and deployment pipelines  
 
 💬 Always open to feedback or collaboration!
 
