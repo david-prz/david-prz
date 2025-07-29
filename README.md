@@ -7,10 +7,9 @@
 
 ### 🌱 Currently Learning
 
--  <strong>JavaScript & TypeScript</strong> – Strengthening my knowledge of modern JavaScript and exploring the power of TypeScript  
+-  <strong>Java, JavaScript & TypeScript</strong> – Strengthening my knowledge of Java, JavaScript and exploring the power of TypeScript 
 -  <strong>Backend Development</strong> – Creating RESTful APIs, working with MySQL/PostgreSQL
--  <strong>Node.js & Express</strong> – Learning to build scalable server-side applications  
--  <strong>Practice Projects</strong> – Uploading small projects and learning experiments regularly  
+-  <strong>Node.js & Express</strong> – Learning to build scalable server-side applications   
 -  <strong>DevOps Basics</strong> – Exploring tools like Docker, Linux, and CI/CD with Jenkins as a foundation for the future  
 -  <strong>Next goals</strong> – Backend testing, fullstack apps with React or Angular, and deployment pipelines  
 
